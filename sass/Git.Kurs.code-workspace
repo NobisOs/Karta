@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../Git.Kurs"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Folder 2"
+		},
+		{
+			"path": "../../Folder 3"
+		},
+		{
+			"path": "../../Folder 4"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Folder 1"
+	}
+}
